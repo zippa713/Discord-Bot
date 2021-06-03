@@ -1,7 +1,0 @@
-{
-    "token": "ODQ5MDI1ODA2Mjg5NDY5NTAw.YLVK5g.3syZLZqqJ-IqW--ZLBhxQLxjAD0",
-    "prefix": "$",
-    "mongoPath": "mongodb://db:27017/",
-    "contractAddress": "0x280ce73a3a90b8aeb4ef7ed10c928c35ec5c0420",
-    "bscScanApiKey": "C6ZCBZV3U75SDCV5FMNMYB1TYXUARM1UND"
-}
